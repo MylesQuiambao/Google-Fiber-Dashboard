@@ -1,6 +1,6 @@
 # Google-Fiber-Dashboard
 
-### Project Background
+## Project Background
 
 This project uses anonymized data from Google Fiber, a telecommunications company, and aims to improve customer satisfaction, reduce call volume, and improve operational optimization. The dashboard that will be created must demonstrate an understanding of these goals and provide valuable insight for stakeholders about repeat caller volumes in different markets and the types of problems they represent.
 
