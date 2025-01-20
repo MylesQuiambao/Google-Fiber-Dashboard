@@ -29,7 +29,19 @@ Additionally, the dataset records repeat calls over seven-day periods. The initi
 
 ![image](https://github.com/user-attachments/assets/f68f1895-596d-4216-9cde-2f8f84b63ce3)
 
-The first tab of the dashboard features two bar charts. The first chart visualizes how many repeat calls the customer support team handles each month. 
+The first tab of the dashboard features two bar charts. The first chart visualizes the number of repeat calls the customer support team handles each month. 
 This graph shows that most repeated callers call just one day after their initial call. 
 The second bar chart shows the percentage of callers who initially call on each day of the week.
-Most callers engage in their initial call on Mondays which is what we see for January and February. However, this is different for March, wherein Wednesday was the weekday where most callers would have their initial call.
+Most callers engage in their initial call on Mondays, which is what we see for January and February. However, this is different for March, when Wednesday was the weekday on which most callers would have their initial call.
+
+![image](https://github.com/user-attachments/assets/aa7ad8e8-8299-466d-ac26-666dc67a4d22)
+
+The second tab of the dashboard features 2 tables. The first table lets the user explore repeat callers by call date. The second table groups the repeat callers by market and problem type to provide more specific information on what market and what type of problems the callers are prompting repeat calls.
+
+![image](https://github.com/user-attachments/assets/d0c90a3e-3953-4b9e-ba08-93855899a96d)
+
+The third tab of the dashboard uses data from previous tabs to visualize further the problem types that generate the most repeat calls for different markets. 
+
+![image](https://github.com/user-attachments/assets/d2d85692-c564-4cde-a186-5040e543e2eb)
+
+The final dashboard tab includes two charts to visualize the number of Day 0 calls across markets and problem types and the first repeat calls across markets and problem types. This helps users gain insight into what markets and problems are generating calls in the first quarter of the year, as well as which ones are prompting customers to call again after the first contact. 
