@@ -26,3 +26,10 @@ The data also lists five problem types:
 Additionally, the dataset records repeat calls over seven-day periods. The initial contact date is listed as Day 0. The other call columns are “Day (#)” where # of days since the first call. For example, Day 6 indicates six days since the first contact.
 
 ### Dashboard Summary
+
+![image](https://github.com/user-attachments/assets/f68f1895-596d-4216-9cde-2f8f84b63ce3)
+
+The first tab of the dashboard features two bar charts. The first chart visualizes how many repeat calls the customer support team handles each month. 
+This graph shows that most repeated callers call just one day after their initial call. 
+The second bar chart shows the percentage of callers who initially call on each day of the week.
+Most callers engage in their initial call on Mondays which is what we see for January and February. However, this is different for March, wherein Wednesday was the weekday where most callers would have their initial call.
